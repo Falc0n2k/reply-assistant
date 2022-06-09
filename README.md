@@ -26,7 +26,6 @@ A bot for Reddit communiites that provides a response based on a keyword detecte
 
 ### Built With
 
-* [PRAW]
 * [Python](https://www.json.org/)
 
 ### Dependencies
